@@ -8,7 +8,7 @@ This bar graph illustrates the impact of underlying conditions on heart disease 
 
 <img width="592" alt="image" src="https://github.com/ukala19/Heart-Disease-Analysis-/assets/123114008/ee18d9e4-1ad6-49df-8cfc-af0b66e1fb52">
 
-Dashboard 1 Findings:
+**Dashboard 1 Findings:**
 The heart disease percentage is very low, which is 7% in physically active individuals. And 93% of individuals who do not have heart disease are physically active.
 In most individuals with heart disease, the sleep time (0-24 hrs.) is normal which is 8 hours showing that irrespective of the normal sleep time, heart diseases still occur.
 There are only 9% of heart patients in people that do not consume alcohol while 91% of the alcoholics have heart disease.
@@ -18,12 +18,12 @@ Approximately 37% of heart patients have trouble in walking, underscoring the su
 
 <img width="593" alt="image" src="https://github.com/ukala19/Heart-Disease-Analysis-/assets/123114008/cba31164-9b15-4bcb-83c9-488bbd5544c7">
 
-Dashboard 2 Findings:
+**Dashboard 2 Findings:**
 93% of the physically active individuals do not have heart disease and only 7% of them have heart disease implying the highest importance of physical activity on heart health.
 33% of non-alcoholics have very good overall health while only 3% of them have poor health indicating the impact of alcohol on general health conditions.
 39% of physically active individuals have very good health and only 2% of them have poor health, underscoring the significant impact of alcohol on general health.
 There are only 10.53% of diabetic patients within physically active individuals. And 89.4% of them who are physically active do not have diabetes and this shows the impact of physical activity on diabetes which indirectly contributes to heart disease.
 The incidence of difficulty in walking among physically active individuals is only 9%, in stark contrast to a significantly higher 91% among physically inactive individuals.
 
-Conclusion:
+**Conclusion:**
 In summary, the analysis highlights several key findings related to heart disease and its association with various factors. Among physically active individuals, the prevalence of heart disease is remarkably low at 7%, emphasizing the importance of regular exercise. Alcohol consumption demonstrates a significant impact, with 91% of alcoholics affected by heart disease compared to only 9% of non-drinkers. Difficulty in walking is prevalent in 37% of heart patients, underscoring its significance. Overall, physical activity emerges as a crucial factor, with 93% of physically active individuals avoiding heart disease and other underlying diseases like diabetes and walking ability. By being physically active and reducing alcohol consumption, many health problems and the risk of heart disease can be avoided.
